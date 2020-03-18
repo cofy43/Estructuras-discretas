@@ -1,5 +1,4 @@
--- Alex Gerardo Fernandez Aguilar 314338097
--- Luis Erick Montes Garcia 419004547
+-- Espinal Cruces Martin Felipe
 
  --Ejercicio 1.1
  data Binario = BaseUno | Uno Binario | Cero Binario deriving (Eq)
