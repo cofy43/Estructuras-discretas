@@ -1,5 +1,5 @@
 --ESTRUCTURAS DISCRETAS 2019-1
---Fernandez Aguilar Alex Gerardo
+--Espinal Cruces Martin Felipe
 --Práctica 1
 
 --Ejercicio 1.1
