@@ -1,5 +1,4 @@
--- Alex Gerardo Fernandez Aguilar 314338097
--- Luis Erick Montes Garcia 419004547
+-- Espinal Cruces Martin Felipe
 
 module Practica3 where 
 
