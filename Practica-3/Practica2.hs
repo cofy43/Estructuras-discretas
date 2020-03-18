@@ -1,6 +1,4 @@
---ESTRUCTURAS DISCRETAS 2019-1
---Fernandez Aguilar Alex Gerardo
---Práctica 2
+--Espinal Cruces Martin Felipe
 
 module Practica2 where
 
